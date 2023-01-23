@@ -5,8 +5,8 @@ body {
 
 h1 {
 	color: #f00;
-	text-align: center;
 	font-family: Arial;
+	text-align: center;
 }
 
 p {
@@ -19,21 +19,21 @@ a {
 }
 
 a:visited {
-	text-decoration: none;
 	color: #0f0;
+	text-decoration: none;
 }
 
 .wikipedia {
-	padding: 0 0 0 50px;
 	background:url(imagenes/wikipedia.ico) no-repeat left center;
+	padding: 0 0 0 50px;
 }
 
 table {
-	empty-cells: hide;
-	border-collapse: collapse;
 	background-color: #fff;
 	border: 3px solid #0f0;
+	border-collapse: collapse;
 	caption-side: bottom;
+	empty-cells: hide;
 }
 
 table th {
@@ -49,9 +49,9 @@ table td {
 }
 
 form fieldset{
+	background: #789;
 	border: 3px solid #f99;
 	float: left;
-	background: #789;
 }
 
 label {
@@ -65,13 +65,13 @@ input {
 }
 
 input:focus {
-	border: 2px solid #000;
 	background: #987;
+	border: 2px solid #000;
 }
 
 textarea:focus {
-	border: 2px solid #000;
 	background: #987;
+	border: 2px solid #000;
 }
 
 #contenido {
@@ -86,24 +86,23 @@ textarea:focus {
 }
 
 ul.menu {
-	width: 180px;
+	border: 1px solid #000;
 	list-style: none;
 	margin: 0;
 	padding: 0;
-	border: 1px solid #000;
 }
 
 ul.menu li {
+	background: #fff;
 	border-bottom: 1px solid #000;
 	border-top: 1px solid #000;
-	background: #fff;
 }
 
 ul.menu li a {
-	padding: .2em 0 .2em 1.5em;
+	color: #000;
 	display: block;
+	padding: .2em 0 .2em 1.5em;
 	text-decoration: none;
-	color: #000
 }
 
 ul.menu li a:hover, ul.menu li a:active {
@@ -111,7 +110,7 @@ ul.menu li a:hover, ul.menu li a:active {
 }
 
 .cita {
+	padding-left: 35%;
 	text-align: left;
 	text-indent: 0;
-	padding-left: 35%;
 }
