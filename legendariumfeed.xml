@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+      <channel>
+            <title>Legendarium Feed</title>
+            <link>https://sebasadell.github.io/css1/index.html</link>
+            <description>Guía de lectura de la obra de J. R. R. Tolkien</description>
+            <language>es-ES</language>
+            <image>
+                  <title>Legendarium</title>
+                  <url>https://www.logolynx.com/images/logolynx/f0/f0ca9241cd7ab7f8b4a0d4509b56bf38.jpeg</url>
+                  <link>https://sebasadell.github.io/css1/index.html</link>
+                  <width>45</width>
+                  <height>90</height>
+            </image>
+            <item>
+                  <title>El Hobbit</title>
+                  <link>https://sebasadell.github.io/css1/hobbit.html</link>
+                  <description>Primera obra que explora el Legendarium</description>
+            </item>
+            <item>
+                  <title>El Senor de los Anillos</title>
+                  <link>https://sebasadell.github.io/css1/esdla.html</link>
+                  <description>La publicacion mas conocida de Tolkien</description>
+            </item>
+            <item>
+                  <title>Las Aventuras de Tom Bombadil</title>
+                  <link>https://sebasadell.github.io/css1/tombombadil.html</link>
+                  <description>Poemario sobre la Tierra Media</description>
+            </item>
+            <item>
+                  <title>La Ultima Canción de Bilbo</title>
+                  <link>https://sebasadell.github.io/css1/ultimacancion.html</link>
+                  <description>Epilogo de El Senor de los Anillos</description>
+            </item>
+            <item>
+                  <title>El Silmarillion</title>
+                  <link>https://sebasadell.github.io/css1/silmarillion.html</link>
+                  <description>Conjunto de historias ambientadas en el Arda</description>
+            </item>
+            <item>
+                  <title>Cuentos Inconclusos de Numenor y la Tierra Media</title>
+                  <link>https://sebasadell.github.io/css1/cuentosinconclusos.html</link>
+                  <description>Coleccion de historias</description>
+            </item>
+            <item>
+                  <title>Los Hijos de Hurin</title>
+                  <link>https://sebasadell.github.io/css1/hurin.html</link>
+                  <description>Novela sobre la Primera Edad del Sol</description>
+            </item>
+            <item>
+                  <title>Historia de la Tierra Media</title>
+                  <link>https://sebasadell.github.io/css1/hdltm.html</link>
+                  <description>Coleccion de 9 libros que analizan el material sobre la Tierra Media</description>
+            </item>
+            <item>
+                  <title>La Historia de El Senor de los Anillos</title>
+                  <link>https://sebasadell.github.io/css1/hdsdla.html</link>
+                  <description>Serie de 4 libros que documentan el proceso de creacion de El Senor de los Anillos</description>
+            </item>
+      </channel>
+</rss>
